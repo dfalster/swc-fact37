@@ -28,9 +28,11 @@ Presnetation of code, followed by intensive review.
 2. <h3> Close to 'breakthrough tool'</h3>
 
 3. <h3> Catches between 30-90% of defects </h3>
-Depeneding on ([Boehm & Basili 2001](http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/82.78.pdf)):   - number and type of peer reviews, 
+Depeneding on:
+ - number and type of peer reviews, 
  - size and complexity of the system,
- - frequency of defects better caught by execution.
+ - frequency of defects better caught by execution. 
+ ([Boehm & Basili 2001](http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/82.78.pdf))
 
 ---
 
@@ -47,7 +49,7 @@ People think in different ways, make different assumptions, notcie different thi
 
 ---
 
-## Why so un popular?
+## Why so un-popular?
 
 1. <h3> It's cheap </h3>
 Companies hype tools they can sell. Code review is cheap.
@@ -66,8 +68,10 @@ Need to encourage positive atmosphere.
 ## Guidelines
 
 1. <h3> Do it early </h3>
-Cheaper to fix problems when caught early ([Boehm & Basili 2001](http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/82.78.pdf))
+Cheaper to fix problems when caught early 
 
 2. <h3> Combine with other error detection tools</h3>
 Code review, analysis tools, and testing catch different classes of
 defects at different points in the development cycle.
+
+([Boehm & Basili 2001](http://www.cs.umd.edu/projects/SoftEng/ESEG/papers/82.78.pdf))
