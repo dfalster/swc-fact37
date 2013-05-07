@@ -1,5 +1,5 @@
 ---
-title: Facts and fallacies of software engineering - Fact 37
+title: Facts and fallacies - Fact 37
 subtitle: Rigorous inspections can remove up to 90 percent of errors from a software product before the first test case is run
 author: Daniel Falster
 job         : Post-doctoral research fellow, Macquarie University
