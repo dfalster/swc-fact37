@@ -31,10 +31,10 @@ Depeneding on:
 ## Why does it work?
 
 1.  <h3>Two brains better than one.</h3>
-People think in different ways, make different assumptions, notcie different things.
+People think in different ways, make different assumptions, notice different things.
 
 2.  <h3> Tests programmers logic</h3>
-Can someone else follow logic?
+Can someone else follow your logic?
 
 3.  <h3>Encourgaes you to solve problems yourself.</h3>
 Explaining something to someone else forces you to focus on details.
