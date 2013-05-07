@@ -18,7 +18,8 @@ github:
 1. <h3> Inspection of code by a group </h3>
 Presnetation of & intensive review of your code. 
 
-2. <h3> A 'breakthrough tool' [Glass, 2003]()</h3>
+2. <h3> A 'breakthrough tool' </h3>
+according to [Glass, 2003](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425)
 
 3. <h3> Catches between 30-90% of defects </h3>
 Depeneding on:
@@ -41,7 +42,7 @@ Explaining something to someone else forces you to focus on details.
 
 ---
 
-## Why so un-popular?
+## Why so unpopular?
 
 1. <h3> It's cheap, so not promoted </h3>
 Companies hype tools they can sell. 
